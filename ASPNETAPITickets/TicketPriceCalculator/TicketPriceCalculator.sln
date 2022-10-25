@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketPriceCalculator", "TicketPriceCalculator\TicketPriceCalculator.csproj", "{26C8AB7A-7681-4C0E-B0A5-7AD6E498F8AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesDataLayer", "MoviesDataLayer\MoviesDataLayer.csproj", "{CD654BD1-9EB2-4C54-88AA-6ACADC5FE65D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C8AB7A-7681-4C0E-B0A5-7AD6E498F8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C8AB7A-7681-4C0E-B0A5-7AD6E498F8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C8AB7A-7681-4C0E-B0A5-7AD6E498F8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C8AB7A-7681-4C0E-B0A5-7AD6E498F8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD654BD1-9EB2-4C54-88AA-6ACADC5FE65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD654BD1-9EB2-4C54-88AA-6ACADC5FE65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD654BD1-9EB2-4C54-88AA-6ACADC5FE65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD654BD1-9EB2-4C54-88AA-6ACADC5FE65D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F79B16B3-D359-4C38-BED1-B7A1D75D9E32}
+	EndGlobalSection
+EndGlobal
